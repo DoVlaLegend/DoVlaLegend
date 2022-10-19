@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DoVlaLegend :)
+- 👋 Hi, I’m @DoVla :)
 - 👀 I’m interested in making an app.
 - 🌱 I’m currently learning flutter and vue,js.
 - 📫 How to reach me vladimir.kusic@gmail.com
